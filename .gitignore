@@ -1,2 +1,6 @@
 /Fraud_data/*
 /Models/*
+/mlruns/
+*.log
+*.tmp
+mlartifacts
